@@ -21,7 +21,7 @@ Libraries: Pandas (Data Manipulation), SQLite3 (SQL Parsing), JSON (Data Loading
 
 Tools: Jupyter Notebook
 
-##Data Architecture & Joins
+## Data Architecture & Joins
 The project creates a master dataset of 10,000 records using the following logic:
 
 Primary Join: orders.csv + users.json on user_id.
